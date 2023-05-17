@@ -1,3 +1,7 @@
 body{
   background-color: grey;
 }
+
+.skills-list{
+  list-style: none;
+}
